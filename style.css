@@ -7,7 +7,7 @@
     height:60px;
     border-bottom: 1px solid pink;
     background-color: #000;
-    justify-content-center;
+    justify-content:center;
     text-align:center;
 }
 .nav-container{
