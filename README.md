@@ -11,7 +11,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-thegeekyaryan-181717?style=flat-square&logo=github)](https://github.com/thegeekyaryan)
-[![Instagram](https://img.shields.io/badge/Instagram-a4yan.exe-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/a4yan.exe)
+
 [![Profile Views](https://komarev.com/ghpvc/?username=thegeekyaryan&style=flat-square&color=172554&label=PROFILE+VIEWS)](https://github.com/thegeekyaryan)
 
 </div>
